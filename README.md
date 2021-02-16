@@ -1,2 +1,2 @@
 # Shubhamgarg
-It contains my projects in python progrmming.
+It contains my projects in python programming.
